@@ -12,7 +12,7 @@
 
 ## 🖥️ Live Demo
 
-👉 **[Try it here](https://https://cipher-check.netlify.app/)**
+👉 **[Try it here](https://cipher-check.netlify.app/)**
 
 ---
 
